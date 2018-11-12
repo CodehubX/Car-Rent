@@ -1,0 +1,189 @@
+[Root]
+Most Recent Package=Legacy Car Rental
+
+
+[Package|Legacy Car Rental|Root]
+SubWizProgID=PDWizard.SetupPkgSubWiz
+BuildFolder=C:\Users\Vicky Vicky\Desktop\project data
+
+[Package|Legacy Car Rental|Configure DAO ISAMs]
+Applicable=Yes
+Jet 2.x=Yes
+
+[Package|Legacy Car Rental|Configure DAO ODBC]
+JetWorkspace=Yes
+ODBCDirect=Yes
+
+[Package|Legacy Car Rental|Files Found]
+
+[Package|Legacy Car Rental|Files Released]
+
+[Package|Legacy Car Rental|Missing Dependency Information]
+C:\Program Files (x86)\Common Files\System\ado\msado20.tlb=
+
+[Package|Legacy Car Rental|Out-of-Date Dependency Information]
+C:\Windows\SysWOW64\Mscomct2.ocx=
+
+[Package|Legacy Car Rental|Files Added]
+C:\Users\Vicky Vicky\Desktop\legacy_car_rental\database\legacy_car.mdb=
+C:\Users\Vicky Vicky\Desktop\legacy_car_rental\forms\adminForms\frmAddCars.frm=
+C:\Users\Vicky Vicky\Desktop\legacy_car_rental\forms\adminForms\frmAddCars.frx=
+C:\Users\Vicky Vicky\Desktop\legacy_car_rental\forms\adminForms\frmAdmHome.frm=
+C:\Users\Vicky Vicky\Desktop\legacy_car_rental\forms\adminForms\frmUsers.frm=
+C:\Users\Vicky Vicky\Desktop\legacy_car_rental\forms\userForms\frmClients.frm=
+C:\Users\Vicky Vicky\Desktop\legacy_car_rental\forms\userForms\frmUserHome.frm=
+C:\Users\Vicky Vicky\Desktop\legacy_car_rental\forms\userForms\frmViewCars.frm=
+C:\Users\Vicky Vicky\Desktop\legacy_car_rental\forms\frmViewClients.frm=
+C:\Users\Vicky Vicky\Desktop\legacy_car_rental\forms\frmRecords.frm=
+C:\Users\Vicky Vicky\Desktop\legacy_car_rental\forms\frmLogin.frm=
+C:\Users\Vicky Vicky\Desktop\legacy_car_rental\forms\frmhome.frm=
+C:\Users\Vicky Vicky\Desktop\legacy_car_rental\forms\frmBook.frm=
+C:\Users\Vicky Vicky\Desktop\legacy_car_rental\forms\frmAdminLogin.frm=
+
+[Package|Legacy Car Rental|Files Removed]
+c:\users\vicky vicky\desktop\legacy_car_rental\forms\adminforms\frmaddcars.frx=
+
+[Package|Legacy Car Rental|Files In Project]
+C:\Users\Vicky Vicky\Desktop\prjctCarRental.exe=Yes
+C:\Windows\System32\msvbvm60.dll=Yes
+C:\Windows\System32\oleaut32.dll=Yes
+C:\Windows\System32\olepro32.dll=Yes
+C:\Windows\System32\asycfilt.dll=Yes
+C:\Windows\System32\stdole2.tlb=Yes
+C:\Program Files (x86)\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=Yes
+C:\Program Files (x86)\Common Files\designer\MSDERUN.DLL=Yes
+C:\Windows\SysWOW64\MSADODC.OCX=Yes
+C:\Windows\SysWOW64\MSSTDFMT.DLL=Yes
+C:\Program Files (x86)\Common Files\System\ado\msado20.tlb=Yes
+C:\Program Files (x86)\Common Files\microsoft shared\DAO\DAO350.DLL=Yes
+C:\Windows\System32\MSJET35.DLL=Yes
+C:\Windows\System32\MSJTER35.DLL=Yes
+C:\Windows\System32\MSJINT35.DLL=Yes
+C:\Windows\System32\vbajet32.dll=Yes
+C:\Windows\System32\expsrv.dll=Yes
+C:\Windows\System32\MSRD2X35.DLL=Yes
+C:\Windows\System32\MSREPL35.DLL=Yes
+C:\Program Files (x86)\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\MSVCRT40.DLL=Yes
+C:\Windows\System32\VB5DB.DLL=Yes
+C:\Windows\SysWOW64\MSDATGRD.OCX=Yes
+C:\Windows\SysWOW64\MSBIND.DLL=Yes
+C:\Windows\SysWOW64\Mscomct2.ocx=Yes
+C:\Windows\SysWOW64\DBLIST32.OCX=Yes
+C:\Windows\System32\MSRDO20.DLL=Yes
+C:\Windows\System32\RDOCURS.DLL=Yes
+C:\Program Files (x86)\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\MDAC_TYP.EXE=Yes
+C:\Program Files (x86)\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP.EXE=Yes
+C:\Program Files (x86)\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP1.EXE=Yes
+C:\Windows\System32\VB6STKIT.DLL=Yes
+C:\Program Files (x86)\Microsoft Visual Studio\VB98\Wizards\PDWizard\ST6UNST.EXE=Yes
+C:\Users\Vicky Vicky\Desktop\legacy_car_rental\database\legacy_car.mdb=Yes
+C:\Users\Vicky Vicky\Desktop\legacy_car_rental\forms\adminForms\frmAddCars.frm=Yes
+C:\Users\Vicky Vicky\Desktop\legacy_car_rental\forms\adminForms\frmAddCars.frx=No
+C:\Users\Vicky Vicky\Desktop\legacy_car_rental\forms\adminForms\frmAdmHome.frm=Yes
+C:\Users\Vicky Vicky\Desktop\legacy_car_rental\forms\adminForms\frmUsers.frm=Yes
+C:\Users\Vicky Vicky\Desktop\legacy_car_rental\forms\userForms\frmClients.frm=Yes
+C:\Users\Vicky Vicky\Desktop\legacy_car_rental\forms\userForms\frmUserHome.frm=Yes
+C:\Users\Vicky Vicky\Desktop\legacy_car_rental\forms\userForms\frmViewCars.frm=Yes
+C:\Users\Vicky Vicky\Desktop\legacy_car_rental\forms\frmViewClients.frm=Yes
+C:\Users\Vicky Vicky\Desktop\legacy_car_rental\forms\frmRecords.frm=Yes
+C:\Users\Vicky Vicky\Desktop\legacy_car_rental\forms\frmLogin.frm=Yes
+C:\Users\Vicky Vicky\Desktop\legacy_car_rental\forms\frmhome.frm=Yes
+C:\Users\Vicky Vicky\Desktop\legacy_car_rental\forms\frmBook.frm=Yes
+C:\Users\Vicky Vicky\Desktop\legacy_car_rental\forms\frmAdminLogin.frm=Yes
+
+[Package|Legacy Car Rental|Configure Registry Files]
+Applicable=No
+
+[Package|Legacy Car Rental|Configure Remote Servers]
+Applicable=No
+
+[Package|Legacy Car Rental|Install Locations]
+C:\Users\Vicky Vicky\Desktop\prjctCarRental.exe=$(AppPath)
+C:\Windows\System32\msvbvm60.dll=$(WinSysPathSysFile)
+C:\Windows\System32\oleaut32.dll=$(WinSysPathSysFile)
+C:\Windows\System32\olepro32.dll=$(WinSysPathSysFile)
+C:\Windows\System32\asycfilt.dll=$(WinSysPathSysFile)
+C:\Windows\System32\stdole2.tlb=$(WinSysPathSysFile)
+C:\Program Files (x86)\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=$(WinSysPathSysFile)
+C:\Program Files (x86)\Common Files\designer\MSDERUN.DLL=$(CommonFiles)\designer
+C:\Windows\SysWOW64\MSADODC.OCX=$(WinSysPath)
+C:\Windows\SysWOW64\MSSTDFMT.DLL=$(WinSysPath)
+C:\Program Files (x86)\Common Files\System\ado\msado20.tlb=$(WinSysPath)
+C:\Program Files (x86)\Common Files\microsoft shared\DAO\DAO350.DLL=$(MSDAOPath)
+C:\Windows\System32\MSJET35.DLL=$(WinSysPathSysFile)
+C:\Windows\System32\MSJTER35.DLL=$(WinSysPathSysFile)
+C:\Windows\System32\MSJINT35.DLL=$(WinSysPathSysFile)
+C:\Windows\System32\vbajet32.dll=$(WinSysPathSysFile)
+C:\Windows\System32\expsrv.dll=$(WinSysPathSysFile)
+C:\Windows\System32\MSRD2X35.DLL=$(WinSysPathSysFile)
+C:\Windows\System32\MSREPL35.DLL=$(WinSysPathSysFile)
+C:\Program Files (x86)\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\MSVCRT40.DLL=$(WinSysPathSysFile)
+C:\Windows\System32\VB5DB.DLL=$(WinSysPath)
+C:\Windows\SysWOW64\MSDATGRD.OCX=$(WinSysPath)
+C:\Windows\SysWOW64\MSBIND.DLL=$(WinSysPath)
+C:\Windows\SysWOW64\Mscomct2.ocx=$(WinSysPath)
+C:\Windows\SysWOW64\DBLIST32.OCX=$(WinSysPath)
+C:\Windows\System32\MSRDO20.DLL=$(WinSysPath)
+C:\Windows\System32\RDOCURS.DLL=$(WinSysPath)
+C:\Program Files (x86)\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\MDAC_TYP.EXE=$(AppPath)
+C:\Program Files (x86)\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP.EXE=$(AppPath)
+C:\Program Files (x86)\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP1.EXE=$(WinPath)
+C:\Windows\System32\VB6STKIT.DLL=$(WinSysPathSysFile)
+C:\Program Files (x86)\Microsoft Visual Studio\VB98\Wizards\PDWizard\ST6UNST.EXE=$(WinPath)
+C:\Users\Vicky Vicky\Desktop\legacy_car_rental\database\legacy_car.mdb=$(AppPath)
+C:\Users\Vicky Vicky\Desktop\legacy_car_rental\forms\adminForms\frmAddCars.frm=$(AppPath)
+C:\Users\Vicky Vicky\Desktop\legacy_car_rental\forms\adminForms\frmAdmHome.frm=$(AppPath)
+C:\Users\Vicky Vicky\Desktop\legacy_car_rental\forms\adminForms\frmUsers.frm=$(AppPath)
+C:\Users\Vicky Vicky\Desktop\legacy_car_rental\forms\userForms\frmClients.frm=$(AppPath)
+C:\Users\Vicky Vicky\Desktop\legacy_car_rental\forms\userForms\frmUserHome.frm=$(AppPath)
+C:\Users\Vicky Vicky\Desktop\legacy_car_rental\forms\userForms\frmViewCars.frm=$(AppPath)
+C:\Users\Vicky Vicky\Desktop\legacy_car_rental\forms\frmViewClients.frm=$(AppPath)
+C:\Users\Vicky Vicky\Desktop\legacy_car_rental\forms\frmRecords.frm=$(AppPath)
+C:\Users\Vicky Vicky\Desktop\legacy_car_rental\forms\frmLogin.frm=$(AppPath)
+C:\Users\Vicky Vicky\Desktop\legacy_car_rental\forms\frmhome.frm=$(AppPath)
+C:\Users\Vicky Vicky\Desktop\legacy_car_rental\forms\frmBook.frm=$(AppPath)
+C:\Users\Vicky Vicky\Desktop\legacy_car_rental\forms\frmAdminLogin.frm=$(AppPath)
+
+[Package|Legacy Car Rental|Configure Shared Files]
+Applicable=Yes
+C:\Users\Vicky Vicky\Desktop\prjctCarRental.exe=No
+C:\Program Files (x86)\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\MDAC_TYP.EXE=No
+C:\Users\Vicky Vicky\Desktop\legacy_car_rental\database\legacy_car.mdb=No
+C:\Users\Vicky Vicky\Desktop\legacy_car_rental\forms\adminForms\frmAddCars.frm=No
+C:\Users\Vicky Vicky\Desktop\legacy_car_rental\forms\adminForms\frmAdmHome.frm=No
+C:\Users\Vicky Vicky\Desktop\legacy_car_rental\forms\adminForms\frmUsers.frm=No
+C:\Users\Vicky Vicky\Desktop\legacy_car_rental\forms\userForms\frmClients.frm=No
+C:\Users\Vicky Vicky\Desktop\legacy_car_rental\forms\userForms\frmUserHome.frm=No
+C:\Users\Vicky Vicky\Desktop\legacy_car_rental\forms\userForms\frmViewCars.frm=No
+C:\Users\Vicky Vicky\Desktop\legacy_car_rental\forms\frmViewClients.frm=No
+C:\Users\Vicky Vicky\Desktop\legacy_car_rental\forms\frmRecords.frm=No
+C:\Users\Vicky Vicky\Desktop\legacy_car_rental\forms\frmLogin.frm=No
+C:\Users\Vicky Vicky\Desktop\legacy_car_rental\forms\frmhome.frm=No
+C:\Users\Vicky Vicky\Desktop\legacy_car_rental\forms\frmBook.frm=No
+C:\Users\Vicky Vicky\Desktop\legacy_car_rental\forms\frmAdminLogin.frm=No
+
+[Package|Legacy Car Rental|Distribution]
+Type=single
+Size=1.44 MB
+Title=LEGACY CAR RENTAL
+
+[Package|Legacy Car Rental|IconGroups]
+Group0=LEGACY CAR RENTAL
+PrivateGroup0=True
+Parent0=$(Programs)
+
+[Package|Legacy Car Rental|LEGACY CAR RENTAL]
+Icon1=prjctCarRental.exe
+Title1=LEGACY CAR RENTAL
+StartIn1=$(AppPath)
+Key1=Icon1
+
+[Package|Legacy Car Rental|Package]
+PackageFolder=C:\Users\Vicky Vicky\Desktop\project data
+ProjectFolder=C:\Users\Vicky Vicky\Desktop\legacy_car_rental
+ServerSideCab=
+File1=C:\Users\Vicky Vicky\Desktop\project data\setup.exe
+File2=C:\Users\Vicky Vicky\Desktop\project data\Setup.Lst
+File3=C:\Users\Vicky Vicky\Desktop\project data\prjctCarRental.CAB
+Handler1=PDWizard.FolderDplySubWiz
+Handler2=PDWizard.WebPostDplySubWiz

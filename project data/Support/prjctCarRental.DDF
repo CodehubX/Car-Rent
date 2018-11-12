@@ -1,0 +1,58 @@
+.OPTION EXPLICIT
+.Set Cabinet=off
+.Set Compress=off
+.Set MaxDiskSize=CDROM
+.Set ReservePerCabinetSize=6144
+.Set DiskDirectoryTemplate=".."
+.Set CompressionType=MSZIP
+.Set CompressionLevel=7
+.Set CompressionMemory=21
+.Set CabinetNameTemplate="prjctCarRental.CAB"
+"Setup.Lst"
+"setup.exe"
+.Set Cabinet=on
+.Set Compress=on
+"prjctCarRental.exe"
+"msvbvm60.dll"
+"oleaut32.dll"
+"olepro32.dll"
+"asycfilt.dll"
+"stdole2.tlb"
+"COMCAT.DLL"
+"MSDERUN.DLL"
+"MSADODC.OCX"
+"MSSTDFMT.DLL"
+"msado20.tlb"
+"DAO350.DLL"
+"MSJET35.DLL"
+"MSJTER35.DLL"
+"MSJINT35.DLL"
+"vbajet32.dll"
+"expsrv.dll"
+"MSRD2X35.DLL"
+"MSREPL35.DLL"
+"MSVCRT40.DLL"
+"VB5DB.DLL"
+"MSDATGRD.OCX"
+"MSBIND.DLL"
+"Mscomct2.ocx"
+"DBLIST32.OCX"
+"MSRDO20.DLL"
+"RDOCURS.DLL"
+"MDAC_TYP.EXE"
+"SETUP1.EXE"
+"VB6STKIT.DLL"
+"ST6UNST.EXE"
+"legacy_car.mdb"
+"frmAddCars.frm"
+"frmAdmHome.frm"
+"frmUsers.frm"
+"frmClients.frm"
+"frmUserHome.frm"
+"frmViewCars.frm"
+"frmViewClients.frm"
+"frmRecords.frm"
+"frmLogin.frm"
+"frmhome.frm"
+"frmBook.frm"
+"frmAdminLogin.frm"
